@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tomas Allami</h1>
 <h3 align="center">Full Stack Developer - Argentina</h3>
-<img align="right" alt="Coding" width="400" src="[https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif](https://tenor.com/es/ver/coding-gif-24297652)">
-
+<div class="tenor-gif-embed" data-postid="24297652" data-share-method="host" data-aspect-ratio="1.33333" data-width="100%"><a href="https://tenor.com/view/coding-gif-24297652">Coding GIF</a>from <a href="https://tenor.com/search/coding-gifs">Coding GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tallami&label=Profile%20views&color=0e75b6&style=flat" alt="tallami" /> </p>
 
 - 🔭 I’m currently working on [Rest Api](https://github.com/Tallami/ITBA-Sprint-7-8)
