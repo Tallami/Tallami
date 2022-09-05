@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tomas Allami</h1>
 <h3 align="center">Full Stack Developer - Argentina</h3>
-<img align="right" alt="Coding" width="400" height="400" src="https://d6f6d0kpz0gyr.cloudfront.net/uploads/images-archive/Blog/Gifs/coding.gif?mtime=20200914144127&focal=none">
+<img align="right" alt="Coding" width="400" height="300" src="https://d6f6d0kpz0gyr.cloudfront.net/uploads/images-archive/Blog/Gifs/coding.gif?mtime=20200914144127&focal=none">
 
 - 🔭 I’m currently working on [Rest Api](https://github.com/Tallami/ITBA-Sprint-7-8)
 
