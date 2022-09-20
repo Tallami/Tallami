@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [Rest Api](https://github.com/Tallami/ITBA-Sprint-7-8)
 
-- 🌱 I’m currently learning **Rest Api**
+- 🌱 I’m currently learning **Docker and React**
 
 - 👨‍💻 All of my projects are available at [https://tallami.github.io/CV/](https://tallami.github.io/CV/)
 
