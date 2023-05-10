@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tomas Allami</h1>
-<h3 align="center">Full Stack Developer - Argentina</h3>
+<h3 align="center">Data Engineer & Full Stack Developer - Argentina</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/media/6926dbbe73b43f4ec5fe67c721489033.gif">
 
 - 🔭 I’m currently working on [Data Engineer](https://github.com/Tallami/ITBA-Sprint-7-8)
