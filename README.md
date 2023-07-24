@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Data Engineering**
 
-- 👨‍💻 All of my projects are available at [https://tallami.github.io/CV/](https://tallami.github.io/CV/)
+- 👨‍💻 All of my projects are available at [https://tomas-allami.vercel.app/](https://tomas-allami.vercel.app/)
 
 - 📫 How to reach me **totoallami@gmail.com**
 
